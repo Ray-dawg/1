@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overview and Detailed Problem Statement</title>
+</head>
+<body>
+    <h1>Overview</h1>
+    <p>Myra AI is an innovative platform designed to revolutionize the trucking industry by eliminating the need for middlemen such as brokers and dispatchers. Our platform directly links carriers and trucking companies to shippers, streamlining the process and enhancing efficiency. Myra AI aims to provide a seamless, user-friendly experience that leverages advanced AI and machine learning technologies to optimize load assignments, track deliveries, and manage payments. Our goal is to create a robust, scalable solution that addresses the unique challenges faced by the trucking industry, ultimately improving productivity and reducing costs for all stakeholders involved.</p>
+
+    <h2>Detailed Problem Statement</h2>
+    <p>The trucking industry is plagued by inefficiencies and outdated practices, resulting in increased operational costs, delays, and suboptimal resource utilization. Traditional methods rely heavily on brokers and dispatchers, who act as intermediaries between shippers and carriers. This leads to communication gaps, mismanagement of loads, and unnecessary expenses. Small and medium-sized trucking companies often struggle to compete with larger players due to limited access to profitable loads and advanced technological solutions. Additionally, the lack of real-time tracking and transparency in the supply chain further exacerbates these issues, making it difficult for companies to manage their fleets effectively and ensure timely deliveries.</p>
+
+    <p>Myra AI addresses these challenges by providing a comprehensive platform that automates load assignments, enhances communication, and offers real-time tracking and analytics. By leveraging AI and machine learning, Myra AI ensures optimal load distribution based on factors such as location, equipment type, and availability. This not only improves efficiency but also reduces the operational burden on carriers and trucking companies. Furthermore, our platform promotes transparency and accountability, allowing all stakeholders to monitor the status of their shipments and make informed decisions. Ultimately, Myra AI empowers small and medium-sized trucking companies to compete on a level playing field, fostering growth and innovation in the industry.</p>
+</body>
+</html>
